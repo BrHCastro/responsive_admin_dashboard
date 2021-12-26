@@ -7,8 +7,8 @@
 ## 📷 Screenshot:
 
 <p float="left">
-  <img src="./assets/screenshot/mobile.gif" width="200"/>
-  <img src="./assets/screenshot/laptop.gif" width="650" />
+  <img src="./assets/screenshot/mobile.gif" width="150"/>
+  <img src="./assets/screenshot/laptop.gif" width="600" />
 </p>
 
 ## Autor:
