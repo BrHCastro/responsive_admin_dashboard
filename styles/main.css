@@ -392,7 +392,7 @@ main.active {
   border-radius: 6px;
 }
 
-.details .recentCostumers {
+.details .recentCustomers {
   position: relative;
   display: -ms-grid;
   display: grid;
@@ -404,7 +404,7 @@ main.active {
   border-radius: 20px;
 }
 
-.details .recentCostumers .imgBox {
+.details .recentCustomers .imgBox {
   position: relative;
   width: 40px;
   height: 40px;
@@ -412,7 +412,7 @@ main.active {
   overflow: hidden;
 }
 
-.details .recentCostumers .imgBox img {
+.details .recentCustomers .imgBox img {
   position: absolute;
   top: 0;
   left: 0;
@@ -422,7 +422,7 @@ main.active {
      object-fit: cover;
 }
 
-.details .recentCostumers table tr {
+.details .recentCustomers table tr {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -431,27 +431,27 @@ main.active {
           align-items: center;
 }
 
-.details .recentCostumers table tr td {
+.details .recentCustomers table tr td {
   padding: 10px;
 }
 
-.details .recentCostumers table tr td h4 {
+.details .recentCustomers table tr td h4 {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.2em;
 }
 
-.details .recentCostumers table tr td span {
+.details .recentCustomers table tr td span {
   font-size: 14px;
   color: var(--black2);
 }
 
-.details .recentCostumers table tr:hover {
+.details .recentCustomers table tr:hover {
   background: var(--blue);
   color: var(--white);
 }
 
-.details .recentCostumers table tr:hover span {
+.details .recentCustomers table tr:hover span {
   color: var(--white);
 }
 
